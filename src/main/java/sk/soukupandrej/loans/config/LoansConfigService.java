@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Map;
 
 @Configuration
-@ConfigurationProperties(prefix = "accounts")
+@ConfigurationProperties(prefix = "loans")
 @Getter @Setter @ToString
 public class LoansConfigService {
 
